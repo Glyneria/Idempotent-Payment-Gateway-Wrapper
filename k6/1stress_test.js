@@ -1,3 +1,4 @@
+// 1st k6 test (without Stripe API)
 import http from 'k6/http';
 import { check, sleep } from 'k6';
 
